@@ -1,4 +1,3 @@
-# product-Dashboard
 # Product Dashboard
 
 A simple end-to-end **Product Dashboard application** built using **Spring Boot** and **plain HTML, CSS, and JavaScript**, focusing on understanding backend fundamentals and REST API design.
